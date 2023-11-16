@@ -60,3 +60,4 @@ async def create_upload_file(file: UploadFile, name: str):
 
 if __name__ == "__main__":
     uvicorn.run(app)
+
